@@ -34,7 +34,7 @@ The app is also hosted on Streamlit. You can visit the app at [insert your Strea
 Eric Grose
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 Please replace Eric and `[insert your Streamlit app's URL here]` 
