@@ -10,12 +10,14 @@ All the dependencies for this project are listed in the `requirements.txt` file.
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 To run the app locally, navigate to the directory containing the app files and type the following command into your terminal:
 
 ```bash
 streamlit run per_predictor_app.py
+```
 
 The app is also hosted on Streamlit. You can visit the app at [insert your Streamlit app's URL here].
 
