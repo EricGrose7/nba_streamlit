@@ -19,7 +19,7 @@ To run the app locally, navigate to the directory containing the app files and t
 streamlit run per_predictor_app.py
 ```
 
-The app is also hosted on Streamlit. You can visit the app at [insert your Streamlit app's URL here].
+The app is also hosted on Streamlit. You can visit the app at [[Here]](https://ericgrose7-nba-streamlit-per-predictor-app-vnyy2p.streamlit.app/).
 
 ## Project Files
 * Seasons_Stats.csv: This is the dataset used to train the model. It contains historical basketball player statistics from 1990 onwards.
@@ -37,4 +37,4 @@ License
 This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Please replace Eric and `[insert your Streamlit app's URL here]` 
+Please replace Eric and [Streamlit App](https://ericgrose7-nba-streamlit-per-predictor-app-vnyy2p.streamlit.app/) 
