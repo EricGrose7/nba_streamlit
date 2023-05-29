@@ -22,13 +22,13 @@ streamlit run per_predictor_app.py
 The app is also hosted on Streamlit. You can visit the app at [insert your Streamlit app's URL here].
 
 ## Project Files
-*Seasons_Stats.csv: This is the dataset used to train the model. It contains historical basketball player statistics from 1990 onwards.
+* Seasons_Stats.csv: This is the dataset used to train the model. It contains historical basketball player statistics from 1990 onwards.
 
-per_predictor_app.py: This is the Streamlit app script. It handles user input and output, and loads and uses the pre-trained PyTorch model to make predictions.
+* per_predictor_app.py: This is the Streamlit app script. It handles user input and output, and loads and uses the pre-trained PyTorch model to make predictions.
 
-final_model.pt: This is the pre-trained PyTorch model. It was trained using the PyTorch framework on the dataset contained in Seasons_Stats.csv.
+* final_model.pt: This is the pre-trained PyTorch model. It was trained using the PyTorch framework on the dataset contained in Seasons_Stats.csv.
 
-scaler.pkl: This is the saved instance of StandardScaler that was used to standardize the training data before it was fed to the model. It is loaded by per_predictor_app.py to standardize the user input before making a prediction.
+* scaler.pkl: This is the saved instance of StandardScaler that was used to standardize the training data before it was fed to the model. It is loaded by per_predictor_app.py to standardize the user input before making a prediction.
 
 ## Author
 Eric Grose
@@ -37,4 +37,4 @@ License
 This project is licensed under the MIT License.
 
 
-Please replace `[Your Name]` and `[insert your Streamlit app's URL here]` 
+Please replace Eric and `[insert your Streamlit app's URL here]` 
